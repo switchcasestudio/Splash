@@ -88,12 +88,12 @@ const projectsContent =`
   <h4>Plant Professor:<a href="#"">(GitHub)</a></h4>
   <p>Web application that provides information on plants using fetch API. Built using vanilla JavaScript.</p>
   
-  <h4>Pig Dice: <a href="https://github.com/Object-ions/Pig-Dice"">(GitHub)</a></h4> <p>Pig Dice is a simple dice game creates with vanilla JavaScript. Two players take turns to roll a single six-sided die.</p>
+  <h4>Pig Dice: <a href="https://github.com/switchcasestudio/Pig-Dice"">(GitHub)</a></h4> <p>Pig Dice is a simple dice game creates with vanilla JavaScript. Two players take turns to roll a single six-sided die.</p>
 
-  <h4>Pierres Bakery (Console Application):<a href="https://github.com/Object-ions/PierresBakery.git" target="_blank">(GitHub)</a></h4>
+  <h4>Pierres Bakery (Console Application):<a href="https://github.com/switchcasestudio/PierresBakery.git" target="_blank">(GitHub)</a></h4>
   <p>This C# console application helps customers place their orders and calculate the total cost.</p>
 
-  <h4>Animal Shelter (API):<a href="https://github.com/Object-ions/AnimalShelter.Solution"">(GitHub)</a></h4>
+  <h4>Animal Shelter (API):<a href="https://github.com/switchcasestudio/AnimalShelter.Solution"">(GitHub)</a></h4>
   <p>A web Api (only) that allows the user to make API calls in order to check the animal shelter database.</p>
   
   <h4>Pierre's SST- (MVC Web Application):<a href="#"">(GitHub)</a></h4> 

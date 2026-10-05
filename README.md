@@ -1,10 +1,10 @@
-# Moses Poston (Object-ions) Resume Page
+# Moses Poston (Switch Case Studio) Resume Page
 
 #### By **Moshe Atia Poston**
 
-This repo is my resume page (aka Object-ions). This page is an online representation of my professional journey, skillset, and portfolio.
+This repo is my resume page (aka Switch Case Studio). This page is an online representation of my professional journey, skillset, and portfolio.
 
-_Live demo: [GH-pages](https://object-ions.github.io/Splash/)_
+_Live demo: [GH-pages](https://switchcasestudio.github.io/Splash/)_
 
 ## Technologies Used
 
@@ -22,9 +22,9 @@ _Live demo: [GH-pages](https://object-ions.github.io/Splash/)_
 - **Side Code Animation**: A mock code typing animation for a technological feel.
 - **Dark Mode & Light Mode**: Enhances user experience by providing UI themes suitable for different lighting conditions.
   - **Dark Mode Preview**:
-    ![Dark Mode Example](https://github.com/Object-ions/Splash/blob/main/img/darkMode.png)
+    ![Dark Mode Example](https://github.com/switchcasestudio/Splash/blob/main/img/darkMode.png)
   - **Light Mode Preview**:
-    ![Light Mode Example](https://github.com/Object-ions/Splash/blob/main/img/lightMode.png)
+    ![Light Mode Example](https://github.com/switchcasestudio/Splash/blob/main/img/lightMode.png)
 
 ## Setup/Installation Requirements
 

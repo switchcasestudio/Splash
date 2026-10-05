@@ -1,8 +1,8 @@
-# Moses Poston (Object-ions) Resume Page
+# Moses Poston (Switch Case Studio) Resume Page
 
 #### By **Moshe Atia Poston**
 
-This repo is my resume page (aka Object-ions). This page is an online representation of my professional journey, skillset, and portfolio.
+This repo is my resume page (aka Switch Case Studio). This page is an online representation of my professional journey, skillset, and portfolio.
 
 _Live demo: [GH-pages](https://switchcasestudio.github.io/Splash/)_
 
